@@ -28,21 +28,21 @@ When the customer is selected, the categories are active. We can choose the prod
 
 ## Project Overview 
 
-|<img src="https://github.com/AtaMesutKilinc/java-desktop-technical-service-app/blob/main/images/photo1.JPG" width="400">
 
-|<img src="https://github.com/AtaMesutKilinc/java-desktop-technical-service-app/blob/main/images/photo2.JPG" width="400">|<img src="https://github.com/AtaMesutKilinc/java-desktop-technical-service-app/blob/main/images/photo3.JPG" width="400">
 
-|<img src="https://github.com/AtaMesutKilinc/java-desktop-technical-service-app/blob/main/images/photo4.JPG" width="400">|<img src="https://github.com/AtaMesutKilinc/java-desktop-technical-service-app/blob/main/images/photo5.JPG" width="400">
+|<img src="https://github.com/AtaMesutKilinc/SellingManagementProject/blob/main/projectimages/1.PNG" width="400">|<img src="https://github.com/AtaMesutKilinc/SellingManagementProject/blob/main/projectimages/2.PNG" width="400">
 
-|<img src="https://github.com/AtaMesutKilinc/java-desktop-technical-service-app/blob/main/images/photo6.JPG" width="400">|<img src="https://github.com/AtaMesutKilinc/java-desktop-technical-service-app/blob/main/images/photo7.JPG" width="400">
+|<img src="https://github.com/AtaMesutKilinc/SellingManagementProject/blob/main/projectimages/3.PNG" width="400">|<img src="https://github.com/AtaMesutKilinc/SellingManagementProject/blob/main/projectimages/4.PNG" width="400">
 
-|<img src="https://github.com/AtaMesutKilinc/java-desktop-technical-service-app/blob/main/images/photo8.JPG" width="400">|<img src="https://github.com/AtaMesutKilinc/java-desktop-technical-service-app/blob/main/images/photo9.JPG" width="400">
+|<img src="https://github.com/AtaMesutKilinc/SellingManagementProject/blob/main/projectimages/5.PNG" width="400">|<img src="https://github.com/AtaMesutKilinc/SellingManagementProject/blob/main/projectimages/6.PNG" width="400">
 
-|<img src="https://github.com/AtaMesutKilinc/java-desktop-technical-service-app/blob/main/images/photo10.JPG" width="400">|<img src="https://github.com/AtaMesutKilinc/java-desktop-technical-service-app/blob/main/images/photo11.JPG" width="400">
+|<img src="https://github.com/AtaMesutKilinc/SellingManagementProject/blob/main/projectimages/7.PNG" width="400">|<img src="https://github.com/AtaMesutKilinc/SellingManagementProject/blob/main/projectimages/8.PNG" width="400">
 
-|<img src="https://github.com/AtaMesutKilinc/java-desktop-technical-service-app/blob/main/images/photo12.JPG" width="400">|<img src="https://github.com/AtaMesutKilinc/java-desktop-technical-service-app/blob/main/images/photo13.JPG" width="400">
+|<img src="https://github.com/AtaMesutKilinc/SellingManagementProject/blob/main/projectimages/9.PNG" width="400">|<img src="https://github.com/AtaMesutKilinc/SellingManagementProject/blob/main/projectimages/10.PNG" width="400">
 
-|<img src="https://github.com/AtaMesutKilinc/java-desktop-technical-service-app/blob/main/images/photo14.JPG" width="400">|<img src="https://github.com/AtaMesutKilinc/java-desktop-technical-service-app/blob/main/images/photo15.JPG" width="400">| 
+|<img src="https://github.com/AtaMesutKilinc/SellingManagementProject/blob/main/projectimages/11.PNG" width="400">|<img src="https://github.com/AtaMesutKilinc/SellingManagementProject/blob/main/projectimages/12.PNG" width="400">
+
+
 
 ## Demo Account
 | <img src ="https://github.com/AtaMesutKilinc/java-desktop-technical-service-app/blob/main/images/mail.png" width ="20px" height = "20px" style="float:left" > E-Mail | <img src ="https://github.com/AtaMesutKilinc/java-desktop-technical-service-app/blob/main/images/password.png" width ="20px" height = "20px" style="float:left" > Password | 
