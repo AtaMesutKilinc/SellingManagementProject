@@ -9,10 +9,11 @@ The homepage consists of tabs for customers, category management, product manage
 
 - On the Customers tab,Category management tab ,Product management tab ,You can add, edit and delete . But if there are sales in the customer, product, category, you can't delete them.You cannot register with the same phone number and email when adding a customer.While adding or updating products, number checks were made at the purchase price, stock quantity, sale price.
 
-- In the Sales management tab, the user selects the customer to whom we want to add sales from the search bar.
-When the customer is selected, the categories are active. We can choose the product from the category we want and add it to our cart as much as the quantity.To delete the product from the customer basket table, we can click on the product and delete the products in our basket with remove from.The user completes the sale with the comlete sale button.
-Or, with the Cancel button, a different customer can be selected, but the products of the before customer in the customer basket table are not deleted, and the sale can be completed later.
+- On the Sales Management tab, the user selects the customer to whom we want to add sales from the search bar.
+When the customer is selected, the categories are active. We can choose the product from the category we want and add it to our cart as much as the quantity.To delete the product from the customer basket table, we can click on the product and delete the products in our basket with remove from.The user completes the sale with the comlete sale button.Or, with the Cancel button, a different customer can be selected, but the products of the before customer in the customer basket table are not deleted, and the sale can be completed later.
 
+- On the Reports tab, there are the carts whose sale has been completed.You can search by product, customer, category and time.Table is not populated without searching with the search bar.Reports can be converted to pdf.Net profit of all time is at the bottom of the page.
+- On the User Settings tab, you can change your existing password.
 
 
 
